@@ -9,6 +9,7 @@ assume others would like to have the ability to check too.
 To use it, run main.lua. The script will prompt you with the following quetions:
 - How many songs are in your library?
 - What file type are your songs?
+- What is the bitrate? [ONLY ASKED IF YOU CHOOSE MP3]
 - What file size? (mb or gb)
 The input for file type and file size MUST be lowercase. If not, the script will not run correctly.
 
